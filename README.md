@@ -8,7 +8,7 @@ In addition to my technical skills, I am committed to continuous learning and st
 ## Languages and Tools
 
 ### Cloud:
-| &nbsp;&nbsp;&nbsp;Azure&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;AWS&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;GCP&nbsp;&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;Azure&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;AWS&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GCP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |-------|-----|-----|
 |![Azure](https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg) | ![AWS](https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) | ![GCP](https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg) |
 
