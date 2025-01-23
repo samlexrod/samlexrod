@@ -23,9 +23,9 @@ In addition to my technical skills, I am committed to continuous learning and st
 |--------------|----------|-------|--------|---------|---------|----------|
 | ![Hugging Face](https://huggingface.co/front/assets/huggingface_logo-noborder.svg) | ![Selenium](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg) | ![Numpy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg) | ![Pandas](https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg) | ![Spark](https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg) | ![Scikitlearn](https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg) | ![Openpyxl](https://openpyxl.readthedocs.io/en/stable/_static/logo.png) | 
 
- | Django | FastAPI | React | Pytorch | Tensorflow |
- |--------|---------|-------|---------|------------|
- | ![Django](https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg) | ![FastAPI](https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg) | ![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg) | ![Pytorch](https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg) | ![Tensorflow](https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg) |
+ | Django | FastAPI | MLFlow | React | Pytorch | Tensorflow |
+ |--------|---------|--------|-------|---------|------------|
+ | ![Django](https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg) | ![FastAPI](https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg) | ![MlFlow](https://mlflow.org/img/mlflow-black.svg) | ![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg) | ![Pytorch](https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg) | ![Tensorflow](https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg) |
 
 ### Environments, Testing, Other:
 | &nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Docker&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Pytest&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Postman&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Vite&nbsp;&nbsp;&nbsp; |
