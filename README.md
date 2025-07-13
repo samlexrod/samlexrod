@@ -13,9 +13,9 @@ In addition to my technical skills, I am committed to continuous learning and st
 |![Azure](https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg) | ![AWS](https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) | ![GCP](https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg) |
 
 ### Languages:
-| Python | JavaScript |  &nbsp;&nbsp;&nbsp;SQL&nbsp;&nbsp;&nbsp;  |
-|--------|------------|-------------------------------------------|
-| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)                    | ![SQL](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg) ![SQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg) ![SQL](https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg)
+| Python | JavaScript |  &nbsp;&nbsp;&nbsp;SQL&nbsp;&nbsp;&nbsp;  | GraphQL |
+|--------|------------|-------------------------------------------| ------- |
+| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)                    | ![SQL](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg) ![SQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg) ![SQL](https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg) | ![GraphQL](https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/graphql/graphql-plain-wordmark.svg)
 
 ### Favorite Frameworks and Libraries:
 
